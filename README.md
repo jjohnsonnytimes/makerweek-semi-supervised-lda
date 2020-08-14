@@ -1,4 +1,6 @@
 # makerweek-semi-supervised-lda
 
 Reference:
-https://github.com/jjohnsonnytimes/makerweek-semi-supervised-lda
+https://docs.google.com/document/d/1FDB12mbWbjLV81J-VIMCA8hj2aZGXB15sara7wv_L8c/edit
+
+
